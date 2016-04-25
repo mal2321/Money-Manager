@@ -2,4 +2,5 @@
     <string name="app_name">Money Manager</string>
     <string name="btnSignin">Sign In</string>
     <string name="btnSignup">Sign Up</string>
+    <string name="titleSignUp">Sign Up</string>
 </resources>
